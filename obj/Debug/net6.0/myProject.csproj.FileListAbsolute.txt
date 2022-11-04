@@ -1,0 +1,72 @@
+C:\Users\monte\OneDrive\Área de Trabalho\Monitoria\csharp\myProject\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\monte\OneDrive\Área de Trabalho\Monitoria\csharp\myProject\bin\Debug\net6.0\appsettings.json
+C:\Users\monte\OneDrive\Área de Trabalho\Monitoria\csharp\myProject\bin\Debug\net6.0\myProject.exe
+C:\Users\monte\OneDrive\Área de Trabalho\Monitoria\csharp\myProject\bin\Debug\net6.0\myProject.deps.json
+C:\Users\monte\OneDrive\Área de Trabalho\Monitoria\csharp\myProject\bin\Debug\net6.0\myProject.runtimeconfig.json
+C:\Users\monte\OneDrive\Área de Trabalho\Monitoria\csharp\myProject\bin\Debug\net6.0\myProject.dll
+C:\Users\monte\OneDrive\Área de Trabalho\Monitoria\csharp\myProject\bin\Debug\net6.0\myProject.pdb
+C:\Users\monte\OneDrive\Área de Trabalho\Monitoria\csharp\myProject\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\monte\OneDrive\Área de Trabalho\Monitoria\csharp\myProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\monte\OneDrive\Área de Trabalho\Monitoria\csharp\myProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\monte\OneDrive\Área de Trabalho\Monitoria\csharp\myProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\monte\OneDrive\Área de Trabalho\Monitoria\csharp\myProject\obj\Debug\net6.0\myProject.csproj.AssemblyReference.cache
+C:\Users\monte\OneDrive\Área de Trabalho\Monitoria\csharp\myProject\obj\Debug\net6.0\myProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monte\OneDrive\Área de Trabalho\Monitoria\csharp\myProject\obj\Debug\net6.0\myProject.AssemblyInfoInputs.cache
+C:\Users\monte\OneDrive\Área de Trabalho\Monitoria\csharp\myProject\obj\Debug\net6.0\myProject.AssemblyInfo.cs
+C:\Users\monte\OneDrive\Área de Trabalho\Monitoria\csharp\myProject\obj\Debug\net6.0\myProject.csproj.CoreCompileInputs.cache
+C:\Users\monte\OneDrive\Área de Trabalho\Monitoria\csharp\myProject\obj\Debug\net6.0\myProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\monte\OneDrive\Área de Trabalho\Monitoria\csharp\myProject\obj\Debug\net6.0\myProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\monte\OneDrive\Área de Trabalho\Monitoria\csharp\myProject\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\monte\OneDrive\Área de Trabalho\Monitoria\csharp\myProject\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\monte\OneDrive\Área de Trabalho\Monitoria\csharp\myProject\obj\Debug\net6.0\scopedcss\bundle\myProject.styles.css
+C:\Users\monte\OneDrive\Área de Trabalho\Monitoria\csharp\myProject\obj\Debug\net6.0\myProject.csproj.CopyComplete
+C:\Users\monte\OneDrive\Área de Trabalho\Monitoria\csharp\myProject\obj\Debug\net6.0\myProject.dll
+C:\Users\monte\OneDrive\Área de Trabalho\Monitoria\csharp\myProject\obj\Debug\net6.0\refint\myProject.dll
+C:\Users\monte\OneDrive\Área de Trabalho\Monitoria\csharp\myProject\obj\Debug\net6.0\myProject.pdb
+C:\Users\monte\OneDrive\Área de Trabalho\Monitoria\csharp\myProject\obj\Debug\net6.0\myProject.genruntimeconfig.cache
+C:\Users\monte\OneDrive\Área de Trabalho\Monitoria\csharp\myProject\obj\Debug\net6.0\ref\myProject.dll
+C:\Users\monte\OneDrive\Área de Trabalho\Monitoria\csharp\myProject\bin\Debug\net6.0\Humanizer.dll
+C:\Users\monte\OneDrive\Área de Trabalho\Monitoria\csharp\myProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\monte\OneDrive\Área de Trabalho\Monitoria\csharp\myProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\monte\OneDrive\Área de Trabalho\Monitoria\csharp\myProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\monte\OneDrive\Área de Trabalho\Monitoria\csharp\myProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\monte\OneDrive\Área de Trabalho\Monitoria\csharp\myProject\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\monte\OneDrive\Área de Trabalho\Monitoria\csharp\myProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\monte\OneDrive\Área de Trabalho\Monitoria\csharp\myProject\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\monte\OneDrive\Área de Trabalho\Monitoria\csharp\myProject\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\USER\Desktop\Projetos\monitorias\myProject\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\USER\Desktop\Projetos\monitorias\myProject\bin\Debug\net6.0\appsettings.json
+C:\Users\USER\Desktop\Projetos\monitorias\myProject\bin\Debug\net6.0\myProject.exe
+C:\Users\USER\Desktop\Projetos\monitorias\myProject\bin\Debug\net6.0\myProject.deps.json
+C:\Users\USER\Desktop\Projetos\monitorias\myProject\bin\Debug\net6.0\myProject.runtimeconfig.json
+C:\Users\USER\Desktop\Projetos\monitorias\myProject\bin\Debug\net6.0\myProject.dll
+C:\Users\USER\Desktop\Projetos\monitorias\myProject\bin\Debug\net6.0\myProject.pdb
+C:\Users\USER\Desktop\Projetos\monitorias\myProject\bin\Debug\net6.0\Humanizer.dll
+C:\Users\USER\Desktop\Projetos\monitorias\myProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\USER\Desktop\Projetos\monitorias\myProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\USER\Desktop\Projetos\monitorias\myProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\USER\Desktop\Projetos\monitorias\myProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\USER\Desktop\Projetos\monitorias\myProject\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\USER\Desktop\Projetos\monitorias\myProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\USER\Desktop\Projetos\monitorias\myProject\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\USER\Desktop\Projetos\monitorias\myProject\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\USER\Desktop\Projetos\monitorias\myProject\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\USER\Desktop\Projetos\monitorias\myProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\USER\Desktop\Projetos\monitorias\myProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\USER\Desktop\Projetos\monitorias\myProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\USER\Desktop\Projetos\monitorias\myProject\obj\Debug\net6.0\myProject.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Projetos\monitorias\myProject\obj\Debug\net6.0\myProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Projetos\monitorias\myProject\obj\Debug\net6.0\myProject.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Projetos\monitorias\myProject\obj\Debug\net6.0\myProject.AssemblyInfo.cs
+C:\Users\USER\Desktop\Projetos\monitorias\myProject\obj\Debug\net6.0\myProject.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Projetos\monitorias\myProject\obj\Debug\net6.0\myProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\USER\Desktop\Projetos\monitorias\myProject\obj\Debug\net6.0\myProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USER\Desktop\Projetos\monitorias\myProject\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\USER\Desktop\Projetos\monitorias\myProject\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\USER\Desktop\Projetos\monitorias\myProject\obj\Debug\net6.0\scopedcss\bundle\myProject.styles.css
+C:\Users\USER\Desktop\Projetos\monitorias\myProject\obj\Debug\net6.0\myProject.csproj.CopyComplete
+C:\Users\USER\Desktop\Projetos\monitorias\myProject\obj\Debug\net6.0\myProject.dll
+C:\Users\USER\Desktop\Projetos\monitorias\myProject\obj\Debug\net6.0\refint\myProject.dll
+C:\Users\USER\Desktop\Projetos\monitorias\myProject\obj\Debug\net6.0\myProject.pdb
+C:\Users\USER\Desktop\Projetos\monitorias\myProject\obj\Debug\net6.0\myProject.genruntimeconfig.cache
+C:\Users\USER\Desktop\Projetos\monitorias\myProject\obj\Debug\net6.0\ref\myProject.dll
