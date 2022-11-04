@@ -2,6 +2,8 @@
 Api developed with C# and .NET, using Entity Framework
 
 ### Structure of the project
+
+```
 /
 ├─ .vscode/                       # file description here      
 ├─ bin/      
@@ -28,3 +30,4 @@ Api developed with C# and .NET, using Entity Framework
 ├─ Program.cs                     # file description here
 ├─ projeto-scharp.csproj          # file description here
 └─ README.md                      # This file
+```
