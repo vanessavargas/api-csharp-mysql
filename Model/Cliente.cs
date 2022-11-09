@@ -1,4 +1,4 @@
-namespace myProject.Model
+namespace projetoCsharp.Model
 {
     public class Cliente
     {

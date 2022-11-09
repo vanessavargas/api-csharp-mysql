@@ -1,8 +1,8 @@
 using Microsoft.AspNetCore.Mvc;
-using myProject.Model;
-using myProject.Repository;
+using projetoCsharp.Model;
+using projetoCsharp.Repository;
 
-namespace myProject.Controllers
+namespace projetoCsharp.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]

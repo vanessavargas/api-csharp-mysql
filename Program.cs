@@ -1,6 +1,6 @@
 using Microsoft.EntityFrameworkCore;
-using myProject.Database;
-using myProject.Repository;
+using projetoCsharp.Database;
+using projetoCsharp.Repository;
 
 var builder = WebApplication.CreateBuilder(args);
 

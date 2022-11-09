@@ -1,7 +1,7 @@
 using Microsoft.EntityFrameworkCore;
-using myProject.Model;
+using projetoCsharp.Model;
 
-namespace myProject.Database
+namespace projetoCsharp.Database
 {
     public class BaseDbContext : DbContext
     {
